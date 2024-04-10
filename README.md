@@ -1,5 +1,5 @@
 <h1 align="center">Abduraxmonov - Backend Dev - Avazbek</h1>
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 My name's Avazbek but my nickname's Avazbek or Abduraxmonov so I'm coming for 14 years old and i'm back-end developer right now
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -46,6 +46,14 @@ My name's Avazbek but my nickname's Avazbek or Abduraxmonov so I'm coming for 14
 ![Image](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<h2>Social Networks</h2>
+
+![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+
 
 <h2>Addition</h2>
 <p>I haven't done much, but at my current level I think these are good projects</p>
