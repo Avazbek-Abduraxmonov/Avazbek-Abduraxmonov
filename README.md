@@ -1,21 +1,53 @@
-<h1 align="center">Hi 👋, I'm AvazbekDev</h1>
-<h3 align="center">Hello, I will tell you a little about myself! I live in Uzbekistan! I've been programming for 1 year now! I studied at the IT center where I live! I've done a few projects myself now I gave you a brief information about myself</h3>
+<h1 align="center">Abduraxmonov - Backend Dev - Avazbek</h1>
+## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+My name's Avazbek but my nickname's Avazbek or Abduraxmonov so I'm coming for 14 years old and i'm back-end developer right now
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avazbek-abduraxmonov&label=Profile%20views&color=0e75b6&style=flat" alt="avazbek-abduraxmonov" /> </p>
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avazbek-abduraxmonov" alt="avazbek-abduraxmonov" /></a> </p>
+- :computer: I'm currently learning on Backend
+- :hourglass_flowing_sand:  front-end learning
+- :muscle: I like football ⚽ & volleyball 🏐
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/avazbek.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avazbek.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@AvazbekDev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@AvazbekDev_" height="30" width="40" /></a>
-</p>
+<h3 align="left">⚡ Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" style="background-color: white" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h4>Frontend</h4
+              
+![Image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avazbek-abduraxmonov&show_icons=true&locale=en&layout=compact" alt="avazbek-abduraxmonov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avazbek-abduraxmonov&show_icons=true&locale=en" alt="avazbek-abduraxmonov" /></p>
+<h4>Css Frameworks</h4>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avazbek-abduraxmonov&" alt="avazbek-abduraxmonov" /></p>
+![Image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+<h4>Programming languages</h4>
+
+![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+<h4>Python library and Frameworks</h4>
+
+![Image](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![Image](https://img.shields.io/badge/daphne-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+<h4>Programs and Tools</h4>
+
+![Image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Image](https://img.shields.io/badge/BASH-white?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<h4>I'm learning now</h4>
+
+![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Image](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<h2>Addition</h2>
+<p>I haven't done much, but at my current level I think these are good projects</p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Avazbek-Abduraxmonov&show_icons=true&theme=gotham" alt="Avazbek-Abduraxmonov" />
