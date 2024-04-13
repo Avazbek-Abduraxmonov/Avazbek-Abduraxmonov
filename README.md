@@ -1,6 +1,6 @@
 <h1 align="center">Abduraxmonov - Backend Dev - Avazbek</h1>
 Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-My name's Avazbek but my nickname's Avazbek or Abduraxmonov so I'm coming for 15 years old and i'm back-end developer right now
+My name's Avazbek but my nickname's AvazbekDev or Abduraxmonov so I'm coming for 15 years old and i'm back-end developer right now
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
