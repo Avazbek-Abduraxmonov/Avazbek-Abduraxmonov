@@ -4,8 +4,8 @@ My name's Avazbek but my nickname's AvazbekDev or Abduraxmonov so I'm coming for
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently learning on Backend
-- :hourglass_flowing_sand:  front-end learning
+- :computer: I'm Python Developer
+- :hourglass_flowing_sand:  I'm currently learning on Frontend
 - :muscle: I like football ⚽ & volleyball 🏐
 
 <h3 align="left">⚡ Languages and Tools:</h3>
