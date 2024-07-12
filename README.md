@@ -64,4 +64,4 @@ My name's Avazbek but my nickname's AvazbekDev or Abduraxmonov so I'm coming for
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Avazbek-Abduraxmonov&show_icons=true&theme=gotham" alt="Avazbek-Abduraxmonov" />
 
 <h2>Analysis</h2>
-<p align="center"> <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)"></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
