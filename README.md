@@ -62,3 +62,6 @@ My name's Avazbek but my nickname's AvazbekDev or Abduraxmonov so I'm coming for
 <p>I haven't done much, but at my current level I think these are good projects</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Avazbek-Abduraxmonov&show_icons=true&theme=gotham" alt="Avazbek-Abduraxmonov" />
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
