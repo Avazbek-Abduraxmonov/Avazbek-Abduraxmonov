@@ -1,4 +1,4 @@
-<h1 align="center">Abduraxmonov - Backend Dev</h1>
+<h1 align="center">AvazbekDev - Backend Dev</h1>
 Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 My name's Avazbek but my nickname's AvazbekDev or Abduraxmonov so I'm coming for 14 years old and i'm back-end developer right now
 
