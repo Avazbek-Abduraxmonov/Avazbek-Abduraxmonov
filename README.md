@@ -22,7 +22,7 @@ My name's Avazbek but my nickname's AvazbekDev or Abduraxmonov so I'm coming for
 ![Image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 <h4>Programming languages</h4>
-
+![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <h4>Python library and Frameworks</h4>
@@ -48,7 +48,6 @@ My name's Avazbek but my nickname's AvazbekDev or Abduraxmonov so I'm coming for
 <h4>I'm learning now</h4>
 
 ![Image](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <h2>Social Networks</h2>
 
